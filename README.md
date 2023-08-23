@@ -19,7 +19,7 @@ Olá, meu nome é Leonardo José Dos Santos, e sou estudante em Gestão da Tecno
 ## 📊 GitHub Stats
 
 ![meu stats](https://github-readme-stats.vercel.app/api?username=eolleo9&hide_title=true&theme=tokyonight&show_icons=true)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eolleo9&layout=donut)](https://github.com/eolleo9/github-readme-stats)
+
 
 
 
